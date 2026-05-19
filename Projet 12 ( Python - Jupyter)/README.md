@@ -1,0 +1,8 @@
+- # Projet 12 - Détectez des faux billets avec Python
+
+## Scénario : 
+Je suis envoyé(e) en mission en tant que Senior Data Analyst auprès de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM). L’objectif de l’ONCFM est d’accélérer l’identification des faux billets en euros en mettant à disposition des équipes une application de machine learning : après scan d’un billet (dimensions, caractéristiques physiques, etc.), l’outil doit prédire s’il s’agit d’un billet authentique ou contrefait. Marie, responsable du dispositif, me confie l’ensemble de la partie technique du projet, avec un jeu de données de 1500 billets déjà scannés (1000 vrais, 500 faux) et un cahier des charges.
+
+## Objectifs : 
+- Mon objectif principal est de construire un modèle de classification fiable permettant de distinguer les vrais billets des faux à partir des variables mesurées. Je dois réaliser les étapes de préparation et d’analyse dans un notebook (nettoyage, exploration, traitement des variables, séparation train/test, validation), puis tester en priorité les quatre algorithmes recommandés par l’EMV : K-means, régression logistique, KNN et Random Forest, tout en comparant leurs performances et, si pertinent, en évaluant d’autres approches.
+- Une fois le modèle final sélectionné, mon second objectif est de livrer une application utilisable : je transforme la solution en un script séparé capable de prendre des caractéristiques en entrée et de produire une prédiction. Enfin, je prépare un support de présentation expliquant la démarche, les résultats des modèles, les raisons du choix final et une démonstration de l’application, afin de la tester et la valider avec Marie et les équipes de l’ONCFM.
