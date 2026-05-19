@@ -1,0 +1,8 @@
+- # Projet 08 - Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD
+
+## Scénario : 
+Je suis Data Analyst dans un cabinet de conseil en transformation digitale de plus de 150 salariés, en forte croissance. Ce matin, je reçois un email de la DRH : l’entreprise doit calculer et publier avant le 1er mars son index de l’égalité femmes-hommes, et souhaite aller au-delà de l’obligation réglementaire en adoptant une démarche volontariste pour renforcer l’égalité professionnelle et la marque employeur. Ma mission est d’aider à automatiser la production d’un diagnostic à partir des données du SIRH, tout en garantissant la conformité RGPD puisque les données ne sont pas anonymisées.
+
+## Objectifs : 
+- Mon premier objectif est de construire un workflow KNIME permettant d’extraire, nettoyer, anonymiser/agréger et contrôler les données RH, puis de générer automatiquement au moins 5 indicateurs pertinents (issus de la liste recommandée par l’outil “Diagnostic Égalité” du ministère du Travail) avec leurs graphiques associés. En parallèle, je dois produire un fichier .csv propre et structuré, prêt à être réutilisé dans des analyses futures via Tableau Software, afin de pérenniser et industrialiser le suivi de l’égalité professionnelle.
+- Mon second objectif est de préparer un support de présentation (15 slides max) destiné à la plénière dans un mois : j’y présente les résultats (données, graphiques), mais aussi la méthodologie complète (collecte, agrégation, vérification de cohérence, reproductibilité du processus, conformité RGPD). Je dois conclure par le score de l’index égalité femmes-hommes du cabinet et formuler des recommandations concrètes pour améliorer ce score l’année suivante.
