@@ -1,0 +1,8 @@
+- # Projet 07 - Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
+
+## Scénario : 
+Je suis consultant Data Analyst chez ESN Data et je suis déployé chez le client Sanitoral, une entreprise internationale spécialisée dans les soins bucco-dentaires, pour une mission de data visualisation. Après un premier échange avec la cheffe de projet au sein du Project Management Office, j’ai formalisé les besoins dans une note de cadrage puis dans un Product Strategy Canvas, désormais validé. Ma mission consiste à concevoir un tableau de bord clair et lisible permettant aux équipes et aux directeurs de suivre l’activité des projets, d’anticiper les dérives et de piloter la performance à partir des données issues de leur outil de gestion de projets.
+
+## Objectifs :
+- Mon objectif principal est de concevoir un tableau de bord Power BI qui permette de suivre l’avancement des projets, les coûts, les retards et les performances globales, tout en mettant en évidence les problématiques récurrentes rencontrées entre 2018 et début 2022. Je dois analyser la structure des données, identifier les incohérences ou limites existantes, puis mettre en place un nettoyage automatique des données à l’aide de Power Query Editor afin de garantir une mise à jour hebdomadaire fiable et reproductible.
+- En complément, je dois intégrer un onglet dédié à la pédagogie et à la prise de décision, présentant le Product Strategy Canvas, le modèle de données et la procédure de mise à jour du reporting. L’ensemble du tableau de bord doit s’appuyer sur des visualisations adaptées et un storytelling clair, tout en proposant au moins un axe stratégique issu de l’analyse, afin d’aider la direction à prendre des décisions éclairées et orientées performance.
