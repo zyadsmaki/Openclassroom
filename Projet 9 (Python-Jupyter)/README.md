@@ -1,0 +1,8 @@
+- # Projet 09 - Analysez les ventes d'une librairie avec Python
+
+## Scénario : 
+Je rejoins l’entreprise Lapage en tant que Data Analyst, après l’ouverture de sa librairie en ligne il y a deux ans, en complément de ses points de vente physiques. L’objectif de ma mission est d’aider l’équipe Marketing à mieux comprendre l’activité e-commerce et à prendre du recul sur les performances globales. J’intègre une équipe composée de la responsable Marketing, et de la Business Intelligence Analyst. À la demande du nouveau responsable commercial, je dois réaliser une analyse complète des ventes en ligne et des comportements clients afin d’éclairer les décisions stratégiques qui seront présentées au comité de direction.
+
+## Objectifs : 
+- Mon premier objectif est de mener une analyse des indicateurs de vente demandés dans le brief : chiffre d’affaires, volumes, performances par produit ou catégorie, évolution de l’activité, afin de dresser un état des lieux clair et compréhensible de la boutique en ligne. Ces résultats doivent permettre d’identifier des leviers d’action concrets, comme l’adaptation des prix, la création d’offres ou le ciblage de certains segments de clientèle.
+- Mon second objectif est de réaliser une analyse approfondie du comportement des clients en ligne en étudiant plusieurs corrélations clés : genre et catégories de livres achetés, âge et montant total des achats, fréquence d’achat, panier moyen et types de livres consommés. L’ensemble de l’analyse doit être synthétisé dans un support de présentation clair, non technique et orienté conseil stratégique, que je présenterai moi-même au CODIR en 15 minutes.
