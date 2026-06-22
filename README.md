@@ -1,7 +1,7 @@
 # 📊 Portfolio Data Analyst – Zyad Smaki
 ## 👋 Présentation
 Diplômé d'une Licence en Économie-Gestion, j'ai effectué une reconversion vers la Data Analyse
-via une formation OpenClassrooms de 18 mois, sanctionnée par un titre RNCP niveau 6.
+via une formation OpenClassrooms de 18 mois, finalisé par un titre RNCP niveau 6.
 Ce dépôt regroupe l'ensemble des projets réalisés durant cette formation, couvrant
 l'analyse de données, la visualisation, le machine learning et le traitement SQL.
 ## 🛠️ Compétences techniques
